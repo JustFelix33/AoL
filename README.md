@@ -24,7 +24,7 @@ VINCENT OLIVER LIMARUS
 This project aims to find patterns in retail product purchases using frequent pattern mining. This method is one of the ways of conducting market basket analysis to gain valuable insights on customer purchases. The patterns found can then be used to compile discount bundles, reposition shelf items, or preemptive product restocks, depending on the preferred strategy.
 
 
-We used 3 tools. Firstly, we used was the python mlxtend library which provides frequent pattern mining algorithms such as Apriori, FP-Growth, and H-Mine. The mlxtend frequent pattern algorithms accepts data in one-hot encoded format:
+We used 3 tools. Firstly, we used was the python mlxtend library which provides frequent pattern mining algorithms such as Apriori, FP-Growth, and H-Mine. The mlxtend frequent pattern algorithms accept data in one-hot encoded format:
 
 
          P001 P002 P003 P004 P005
