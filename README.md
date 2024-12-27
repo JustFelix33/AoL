@@ -28,7 +28,7 @@ We used 3 tools;
 First method we used was the python mlxtend library which provides frequent pattern mining algorithms such as Apriori, FP-Growth, and H-Mine. The mlxtend frequent pattern algorithms accepts data in one-hot encoded format:
 
 
--- -- -- --  P001 P002 P003 P004 P005
+-- -- -- P001 P002 P003 P004 P005
 
 T001  1    1    0    0    0
 
