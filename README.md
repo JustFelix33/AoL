@@ -79,7 +79,7 @@ Combining the Retail and Instacart datasets in this format produced around 36 mi
 
     T001 : P001, P002
 
-    T002 : P001, P003
+    T002 : P001, P003, P005
 
 
 Combining the Retail and Instacart datasets in this format produced around 4 million rows.
